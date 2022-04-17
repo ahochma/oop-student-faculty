@@ -1,0 +1,45 @@
+Name: Or
+Id: 123456789
+Courses list: algebra 7 90 calculus 7 80 programming 4 100 
+88.33333333333333
+Name: Guy
+Id: 987654321
+Courses list: calculus 7 84 imageprocessing 4 90 quantummechanics 4 95 
+Degree: msc
+92.96000000000001
+Name: Dan
+Id: 192837465
+Courses list: phdseminar 4 95 programming 4 90 
+Degree: phd
+100.0
+Name: Nadav
+Id: 220376541
+Courses list: babies 101 2 C calculus 7 A 
+95.55555555555556
+Faculty of engineering
+calculus - 3 students
+programming - 2 students
+algebra - 1 students
+quantummechanics - 1 students
+imageprocessing - 1 students
+phdseminar - 1 students
+babies 101 - 1 students
+
+Poster order: Client name: Dvir, Copies: 1, Size: (1, 1)
+30
+Letter order: Client name: Danielle, Copies: 1, Paper type: A4 80gr
+3
+Letter order: Client name: Roy, Copies: 1, Paper type: A5 100gr
+5
+Letter order: Client name: Roy, Copies: 5, Paper type: A5 100gr
+25
+Print shop orders:
+Dvir : 1 orders
+Danielle : 1 orders
+Roy : 2 orders
+Revenues: 0
+
+Print shop orders:
+Danielle : 1 orders
+Roy : 2 orders
+Revenues: 30
